@@ -1,7 +1,8 @@
+
 const Footer = () => {
   return (
     <p>Hello World!</p>
   );
 };
 
-export
+export default Footer;
